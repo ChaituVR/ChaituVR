@@ -1,6 +1,12 @@
 <h1 align="center">Hello 👋, I'm Chaitanya (ChaituVR)</h1>
 <h3 align="center">Thanks for looking :eyes: into my profile, I am a Full Stack Developer from India</h3>
 
+------------------------------
+<img src="https://media.giphy.com/media/OF0yOAufcWLfi/giphy.gif" width="1000"/>
+
+
+----------------------------------
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaituvr" alt="chaituvr" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://chaituvr.github.io](https://chaituvr.github.io)
@@ -27,4 +33,4 @@
 <a href="https://www.hackerearth.com/chaituvr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="chaituvr" height="30" width="30" /></a>
 </p>
 
-<p><img align="center" src="https://media.giphy.com/media/AeWoyE3ZT90YM/giphy.gif" /></p>
+<p><img align="center" src="https://media.giphy.com/media/AeWoyE3ZT90YM/giphy.gif" width="1000"/></p>
