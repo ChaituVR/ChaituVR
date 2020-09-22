@@ -26,3 +26,5 @@
 <a href="https://www.hackerrank.com/chaituvr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="chaituvr" height="30" width="30" /></a>
 <a href="https://www.hackerearth.com/chaituvr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="chaituvr" height="30" width="30" /></a>
 </p>
+
+<p><img align="center" src="https://media.giphy.com/media/AeWoyE3ZT90YM/giphy.gif" /></p>
