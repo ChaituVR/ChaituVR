@@ -13,7 +13,11 @@
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **https://m.me/chaituvr**
+- 📫 How to reach me 
+
+Telegram: **https://t.me/chaituvr**
+
+Messenger: **https://m.me/chaituvr**
 
 ----------------------------------
 
