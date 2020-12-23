@@ -43,3 +43,5 @@ Messenger: **https://m.me/chaituvr**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaituvr" alt="chaituvr" /> </p>
 <p><img align="center" src="https://media.giphy.com/media/AeWoyE3ZT90YM/giphy.gif" width="1000"/></p>
+--------------
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/chaituvr)
