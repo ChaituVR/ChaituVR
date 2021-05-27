@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Chaitanya (ChaituVR)</h1>
 <h4 align="center">Software Developer,
-  Developing some good things <a href="https://snapshot.org/#/" target="blank">Snapshot Labs ⚡</a></h4>
+  Developing some good things @ <a href="https://snapshot.org/#/" target="blank">Snapshot Labs ⚡</a> Previous: Capgemini</h4>
 <h3 align="center">Thanks for looking :eyes: into my profile</h3>
 
 
