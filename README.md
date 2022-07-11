@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Chaitanya (ChaituVR)</h1>
+<h1 align="center">Hello 👋, I'm Chaitanya (Chaitu)</h1>
 <h4 align="center">Software Developer,
   Developing some good things @ <a href="https://snapshot.org/#/" target="blank">Snapshot Labs ⚡</a> Previous: <a href="https://www.linkedin.com/company/capgemini/">Capgemini</a></h4>
 <h3 align="center">Thanks for looking :eyes: into my profile</h3>
@@ -19,8 +19,6 @@
 - 📫 How to reach me 
 
 Telegram: **https://t.me/chaituvr**
-
-Messenger: **https://m.me/chaituvr**
 
 ----------------------------------
 
