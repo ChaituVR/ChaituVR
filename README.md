@@ -33,8 +33,6 @@ Telegram: **https://t.me/chaituvr**
 <a href="https://twitter.com/chaituvr_s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chaituvr_s" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/chaituvr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chaituvr" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/5916893/chaitanya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="5916893/chaitanya" height="30" width="30" /></a>
-<a href="https://fb.com/chaituvr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="chaituvr" height="30" width="30" /></a>
-<a href="https://instagram.com/chaituvr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="chaituvr" height="30" width="30" /></a>
 <a href="https://medium.com/chaituvr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="chaituvr" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/chaituvr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="chaituvr" height="30" width="30" /></a>
 <a href="https://www.hackerearth.com/chaituvr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="chaituvr" height="30" width="30" /></a>
@@ -47,4 +45,3 @@ Telegram: **https://t.me/chaituvr**
 
 --------------
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/chaituvr)
